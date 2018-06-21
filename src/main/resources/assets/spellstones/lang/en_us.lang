@@ -7,14 +7,6 @@ item.spellstone.yellow.name=Yellow Spellstone
 item.spellstone.orange.bane=Orange Spellstone
 item.spellstone.purple.name=Purple Spellstone
 
-tile.focus_red.name=Spellstone Focus (Red)
-tile.focus_green.name=Spellstone Focus (Green)
-tile.focus_blue.name=Spellstone Focus (Blue)
-tile.focus_bright.name=Spellstone Focus (Bright)
-tile.focus_yellow.name=Spellstone Focus (Yellow)
-tile.focus_orange.name=Spellstone Focus (Orange)
-tile.focus_purple.name=Spellstone Focus (Purple)
-
 tile.lens_chamber.name=Lens Chamber
 
 item.spellstone_dust.name=Spellstone Dust
@@ -35,7 +27,6 @@ item.configurator.lines.ender_corrundum="How did this get here?"
 item.configurator.lines.end_bricks="Now that's just grotesque."
 item.configurator.lines.redstone_block="I'm impressed with the engineering, at least."
 item.configurator.lines.netherrack="Hm. We don't have stuff like that back at home."
-item.configurator.lines.lens_chamber="Are you sure that thing is going to hold together?"
 item.configurator.lines.coal="Don't you think that's a bit barbaric?"
 item.configurator.lines.iron="Oh, interesting. Purer than I expected."
 item.configurator.lines.redstone="Hm. A little primitive, but interesting."

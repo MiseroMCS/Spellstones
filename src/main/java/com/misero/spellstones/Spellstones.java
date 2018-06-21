@@ -1,13 +1,10 @@
 package com.misero.spellstones;
 
 import com.misero.spellstones.blocks.ModBlocks;
-import com.misero.spellstones.blocks.focus.GreenAugmentManager;
-import com.misero.spellstones.blocks.lenschamber.TileEntityLensChamber;
 import com.misero.spellstones.items.ModItems;
 import com.misero.spellstones.items.configurator.ItemConfigurator;
 import com.misero.spellstones.misc.VillagerTrades;
 import com.misero.spellstones.proxy.CommonProxy;
-import com.misero.spellstones.blocks.focus.TileEntityFocus;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.ResourceLocation;
@@ -49,8 +46,6 @@ public class Spellstones {
     @EventHandler
     public void preInit(FMLPreInitializationEvent event) {
         logger = event.getModLog();
-        GameRegistry.registerTileEntity(TileEntityFocus.class, new ResourceLocation(MODID, "focus"));
-        GameRegistry.registerTileEntity(TileEntityLensChamber.class, new ResourceLocation(MODID, "lenschamber"));
     }
 
     //Initialization - currently just for debug.
@@ -68,6 +63,6 @@ public class Spellstones {
 
     @EventHandler
     public void postInit(FMLPostInitializationEvent event) {
-        GreenAugmentManager.loadRecipes();
+
     }
 }

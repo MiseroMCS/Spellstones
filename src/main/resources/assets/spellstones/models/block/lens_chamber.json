@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "spellstones:blocks/lens_chamber"
-    }
-}

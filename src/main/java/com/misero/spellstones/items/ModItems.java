@@ -15,7 +15,6 @@ public class ModItems {
     public static final Item SPELLSTONE_DUST = new ItemBase("spellstone_dust");
     public static final Item SHATTERED_QUARTZ = new ItemBase("shattered_quartz");
     public static final Item CORRUNDUM = new ItemBase("corrundum");
-    public static final Item TEMPERED_LENS = new ItemBase("tempered_lens");
     public static final Item CONFIGURATOR = new ItemConfigurator();
 
     public static final Item SPELLSTONE = new ItemSpellstone();
@@ -24,7 +23,6 @@ public class ModItems {
         SPELLSTONE.setCreativeTab(Spellstones.CREATIVE_TAB);
         SHATTERED_QUARTZ.setCreativeTab(Spellstones.CREATIVE_TAB);
         CORRUNDUM.setCreativeTab(Spellstones.CREATIVE_TAB);
-        TEMPERED_LENS.setCreativeTab(Spellstones.CREATIVE_TAB);
         CONFIGURATOR.setCreativeTab(Spellstones.CREATIVE_TAB);
         OreDictionary.registerOre("gemSapphire", CORRUNDUM);
         OreDictionary.registerOre("dustQuartz", SHATTERED_QUARTZ);
