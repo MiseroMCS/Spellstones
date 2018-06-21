@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "spellstones:lens_chamber" }
+        ],
+        "inventory": [
+            { "model": "spellstones:lens_chamber" }
+        ]
+    }
+}

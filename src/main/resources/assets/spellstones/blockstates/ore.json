@@ -1,0 +1,29 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "all": "blocks/stone"
+    },
+    "model": "cube_all",
+    "uvlock": true
+  },
+  "variants": {
+    "oretype": {
+      "corrundum": {
+        "textures": {
+          "all": "spellstones:blocks/corrundum_ore"
+        }
+      },
+      "mundane_quartz": {
+        "textures": {
+          "all": "spellstones:blocks/mundane_quartz_ore"
+        }
+      },
+      "ender_corrundum": {
+        "textures": {
+          "all": "spellstones:blocks/ender_corrundum"
+        }
+      }
+    }
+  }
+}

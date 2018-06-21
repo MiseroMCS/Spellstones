@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modskeleton",
+  "name": "Mod Skeleton",
+  "description": "A more complete example mod for developers.",
+  "version": "ALPHA",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Misero"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

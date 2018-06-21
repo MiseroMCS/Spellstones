@@ -1,0 +1,34 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "textures": {
+      "0": "spellstones:blocks/base",
+      "1": "spellstones:blocks/spellstone_orange",
+      "particle": "spellstones:blocks/base"
+    },
+    "model": "spellstones:focus",
+    "uvlock": true
+  },
+  "variants": {
+    "facing":{
+      "up": {
+        "model": "spellstones:focus_up"
+      },
+      "down": {
+        "model": "spellstones:focus_down"
+      },
+      "north": {
+        "model": "spellstones:focus_north"
+      },
+      "east": {
+        "model": "spellstones:focus_east"
+      },
+      "south": {
+        "model": "spellstones:focus_south"
+      },
+      "west": {
+        "model": "spellstones:focus_west"
+      }
+    }
+  }
+}

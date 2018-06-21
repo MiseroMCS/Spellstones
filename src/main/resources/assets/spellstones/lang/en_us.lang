@@ -1,0 +1,49 @@
+item.spellstone.dim.name=Dim Spellstone
+item.spellstone.red.name=Red Spellstone
+item.spellstone.green.name=Green Spellstone
+item.spellstone.blue.name=Blue Spellstone
+item.spellstone.bright.name=Bright Spellstone
+item.spellstone.yellow.name=Yellow Spellstone
+item.spellstone.orange.bane=Orange Spellstone
+item.spellstone.purple.name=Purple Spellstone
+
+tile.focus_red.name=Spellstone Focus (Red)
+tile.focus_green.name=Spellstone Focus (Green)
+tile.focus_blue.name=Spellstone Focus (Blue)
+tile.focus_bright.name=Spellstone Focus (Bright)
+tile.focus_yellow.name=Spellstone Focus (Yellow)
+tile.focus_orange.name=Spellstone Focus (Orange)
+tile.focus_purple.name=Spellstone Focus (Purple)
+
+tile.lens_chamber.name=Lens Chamber
+
+item.spellstone_dust.name=Spellstone Dust
+item.corrundum.name=Corundum
+item.shattered_quartz.name=Shattered Quartz
+
+item.configurator.name=Configurator
+item.configurator.lore.overworld=The device is silent.
+item.configurator.lore.nether=The device shakes occasionally, as if scared.
+item.configurator.lore.end=The device produces a contented, low-pitched hum.
+
+item.configurator.lines.default="..."
+item.configurator.lines.corrundum="Maybe put on gloves before handling that stuff. More powerful than you'd think."
+item.configurator.lines.mundane_quartz="Nice find. I could use a snack."
+item.configurator.lines.bedrock="Don't you think you're a little too close?"
+item.configurator.lines.end_stone="This isn't right..."
+item.configurator.lines.ender_corrundum="How did this get here?"
+item.configurator.lines.end_bricks="Now that's just grotesque."
+item.configurator.lines.redstone_block="I'm impressed with the engineering, at least."
+item.configurator.lines.netherrack="Hm. We don't have stuff like that back at home."
+item.configurator.lines.lens_chamber="Are you sure that thing is going to hold together?"
+item.configurator.lines.coal="Don't you think that's a bit barbaric?"
+item.configurator.lines.iron="Oh, interesting. Purer than I expected."
+item.configurator.lines.redstone="Hm. A little primitive, but interesting."
+item.configurator.lines.gold="I'd advise you take some, I could use some nicer wires."
+item.configurator.lines.diamond="Seems a little impure. Maybe I'm biased, though."
+item.configurator.lines.dragon_killed=The device hums quietly,
+
+
+tile.corrundum_ore.name=Corundum Ore
+tile.mundane_quartz_ore=Mundane Quartz Ore
+tile.ender_corrundum.name=Ender Corundum
